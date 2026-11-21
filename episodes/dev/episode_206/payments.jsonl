@@ -1,0 +1,2 @@
+{"doc_id": "doc_052761ae", "payment_id": "pay_03765c53", "timestamp": "2026-01-31T23:30:00+00:00", "currency": "EUR", "amount_minor": 10000, "invoice_refs": ["inv_05ef35f4"]}
+{"doc_id": "doc_018b5260", "payment_id": "pay_040e737e", "timestamp": "2026-01-18T09:00:00+00:00", "currency": "USD", "amount_minor": 8000, "invoice_refs": []}

@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_0000006a",
+  "base_currency": "USD",
+  "period_start": "2026-01-01T00:00:00+00:00",
+  "period_end": "2026-01-31T23:59:59+00:00",
+  "timezone": "UTC",
+  "total_records": 11,
+  "total_documents": 8,
+  "rounding": "round_half_even"
+}

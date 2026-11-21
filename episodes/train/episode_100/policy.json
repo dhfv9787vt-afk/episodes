@@ -1,0 +1,9 @@
+{
+  "fx_date": "payment_timestamp",
+  "period": "inclusive UTC January 2026",
+  "minor_units": {
+    "USD": 2,
+    "EUR": 2
+  },
+  "rounding": "round_half_even"
+}
